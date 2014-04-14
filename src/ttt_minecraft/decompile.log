@@ -1,0 +1,3 @@
+[warning] BspDecompiler: ttt_minecraft_b5 contains anti-decompiling flags or is obfuscated!
+[warning] BspDecompiler: Detected methods:
+[warning] BspDecompiler: VMEX entity flag (no_decomp)
